@@ -1,5 +1,7 @@
 # Tomato and Egg Stir-Fry recipe
 
+Serves 2.
+
 ## Ingredients
 
 - **3** large eggs
